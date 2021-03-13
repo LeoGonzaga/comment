@@ -1,0 +1,10 @@
+{
+  "name": "comment",
+  "version": "1.0.0",
+  "description": "Busca todos seus seguidores do insta e retorna o nome deles para serem marcados no link do sorteio",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer-core": "^8.0.0"
+  }
+}
